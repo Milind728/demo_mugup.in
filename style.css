@@ -220,7 +220,7 @@ a.article:hover {
 /*----------------------------------------------- my css -------------------------------------------*/
 
 .mugup-logo {
-  font-family: Zapf Chancery, cursive;
+  font-family: cursive !important;
   text-decoration: none;
   line-height: 1;
   -webkit-font-smoothing: antialiased;
