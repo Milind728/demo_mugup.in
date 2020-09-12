@@ -227,7 +227,7 @@ a.article, a.article:hover {
 /*----------------------------------------------- my css -------------------------------------------*/
 
 .mugup-logo {
-  font-family: cursive;
+  font-family: Comic Sans MS, Comic Sans, cursive;
   text-decoration: none;
   line-height: 1;
   -webkit-font-smoothing: antialiased;
